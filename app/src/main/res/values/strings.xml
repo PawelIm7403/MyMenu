@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMenu</string>
+    <string name="graj">Graj</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="ranking">Ranking</string>
+    <string name="wyj_cie">Wyjście</string>
+</resources>
